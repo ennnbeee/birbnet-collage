@@ -1,0 +1,30 @@
+# BirdNET Collage Server Configuration
+# Copy this file to config.yaml and adjust settings as needed
+
+# BirdNET-Go backend URL
+birdnet_go_url: "http://localhost:8080"
+
+# Directory containing static files (index.html, assets/, etc.)
+static_dir: "."
+
+# Authentication settings
+auth:
+  # Password for admin access (leave empty to disable auth)
+  password: ""
+  # JWT secret (auto-generated from password if not set)
+  jwt_secret: ""
+  # Enable JWT debug logging
+  jwt_debug: false
+
+# API keys for image generation scripts (scripts/generate_images.py)
+api_keys:
+  gemini_api_key: ""  # Google Gemini API key for image generation
+  ebird_api_key: ""   # eBird API key for species list filtering
+
+# Server listening options (at least one must be configured)
+server:
+  # Unix socket path (leave empty to disable)
+  socket_path: "/tmp/birdnet-collage.sock"
+  # TCP address (leave empty to disable)
+  # Example: "8081" or "localhost:8081" (colon is optional for port-only)
+  tcp_addr: ""

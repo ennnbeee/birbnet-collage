@@ -1,0 +1,105 @@
+Columba palumbus|Common Woodpigeon
+Turdus merula|Eurasian Blackbird
+Erithacus rubecula|European Robin
+Prunella modularis|Dunnock
+Cyanistes caeruleus|Eurasian Blue Tit
+Pica pica|Common Magpie
+Corvus frugilegus|Rook
+Corvus monedula|Eurasian Jackdaw
+Carduelis carduelis|European Goldfinch
+Sturnus vulgaris|Common Starling
+Columba oenas|Stock Dove
+Corvus corone|Carrion Crow
+Corvus cornix|Hooded Crow
+Chloris chloris|European Greenfinch
+Streptopelia decaocto|Collared Dove
+Turdus iliacus|Redwing
+Troglodytes troglodytes|Eurasian Wren
+Strix aluco|Tawny Owl
+Coccothraustes coccothraustes|Hawfinch
+Periparus ater|Coal Tit
+Apus apus|Common Swift
+Aegithalos caudatus|Long-tailed Tit
+Spinus spinus|Eurasian Siskin
+Larus argentatus|Herring Gull
+Gallinula chloropus|Common Moorhen
+Haematopus ostralegus|Eurasian Oystercatcher
+Columba livia|Rock Dove
+Parus major|Great Tit
+Anser brachyrhynchus|Pink-footed Goose
+Alcedo atthis|Common Kingfisher
+Anser anser|Greylag Goose
+Streptopelia turtur|European Turtle Dove
+Tyto alba|Barn Owl
+Tringa ochropus|Green Sandpiper
+Turdus viscivorus|Mistle Thrush
+Fulica atra|Eurasian Coot
+Motacilla cinerea|Grey Wagtail
+Phylloscopus collybita|Common Chiffchaff
+Cygnus cygnus|Whooper Swan
+Anas crecca|Eurasian/Green-winged Teal
+Numenius arquata|Eurasian Curlew
+Asio otus|Long-eared Owl
+Melanitta nigra|Common Scoter
+Turdus pilaris|Fieldfare
+Motacilla alba|Pied Wagtail/White Wagtail
+Lophophanes cristatus|Crested Tit
+Anser albifrons|Greater White-fronted Goose
+Turdus philomelos|Song Thrush
+Regulus regulus|Goldcrest
+Muscicapa striata|Spotted Flycatcher
+Vanellus vanellus|Northern Lapwing
+Linaria cannabina|Common Linnet
+Corvus corax|Common Raven
+Pyrrhula pyrrhula|Eurasian Bullfinch
+Pluvialis squatarola|Grey Plover
+Numenius phaeopus|Whimbrel
+Gavia immer|Great Northern Diver
+Buteo buteo|Common Buzzard
+Ardea cinerea|Grey Heron
+Pluvialis apricaria|European Golden Plover
+Fringilla coelebs|Common Chaffinch
+Delichon urbicum|Western House Martin
+Acanthis flammea|Common Redpoll
+Sylvia atricapilla|Eurasian Blackcap
+Mareca strepera|Gadwall
+Actitis hypoleucos|Common Sandpiper
+Rallus aquaticus|Water Rail
+Passer domesticus|House Sparrow
+Certhia familiaris|Eurasian Treecreeper
+Branta canadensis|Canada Goose
+Athene noctua|Little Owl
+Tringa totanus|Common Redshank
+Poecile palustris|Marsh Tit
+Hirundo rustica|Barn Swallow
+Garrulus glandarius|Eurasian Jay
+Gallinago gallinago|Common Snipe
+Cygnus olor|Mute Swan
+Cuculus canorus|Common Cuckoo
+Charadrius hiaticula|Common Ringed Plover
+Calidris alpina|Dunlin
+Botaurus stellaris|Great Bittern
+Bombycilla garrulus|Bohemian Waxwing
+Anthus pratensis|Meadow Pipit
+Anas platyrhynchos|Mallard
+Alopochen aegyptiaca|Egyptian Goose
+Tringa erythropus|Spotted Redshank
+Spatula clypeata|Northern Shoveler
+Sitta europaea|Eurasian Nuthatch
+Scolopax rusticola|Eurasian Woodcock
+Plectrophenax nivalis|Snow Bunting
+Nycticorax nycticorax|Black-crowned Night Heron
+Milvus milvus|Red Kite
+Mareca penelope|Eurasian Wigeon
+Gavia stellata|Red-throated Diver
+Fringilla montifringilla|Brambling
+Fratercula arctica|Atlantic Puffin
+Falco tinnunculus|Common Kestrel
+Falco columbarius|Merlin
+Dendrocopos major|Great Spotted Woodpecker
+Curruca curruca|Lesser Whitethroat
+Curruca communis|Common Whitethroat
+Coturnix coturnix|Common Quail
+Chroicocephalus ridibundus|Black-headed Gull
+Certhia brachydactyla|Short-toed Treecreeper
+Alauda arvensis|Eurasian Skylark

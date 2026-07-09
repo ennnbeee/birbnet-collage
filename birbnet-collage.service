@@ -1,0 +1,21 @@
+[Unit]
+Description=BirdNET Collage Server
+After=network.target
+
+[Service]
+Type=simple
+# CUSTOMIZE: Change user to match your system (pi, dietpi, or your username)
+User=dietpi
+# CUSTOMIZE: Update paths to match where you cloned the repository
+WorkingDirectory=/home/dietpi/birbnet-collage
+ExecStart=/home/dietpi/birbnet-collage/birbnet-collage-server -config /home/dietpi/birbnet-collage/config.yaml
+Restart=on-failure
+RestartSec=5s
+
+# Logging
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=birbnet-collage
+
+[Install]
+WantedBy=multi-user.target

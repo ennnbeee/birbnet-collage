@@ -1,0 +1,10 @@
+# Python dependencies for AvianVisitors scripts
+
+# Image generation (scripts/generate_images.py)
+Pillow>=10.0.0
+
+# Config file parsing
+PyYAML>=6.0
+
+# Image cutout (scripts/generate_cutout.py)
+# Requires onnxruntime and additional dependencies - see script header

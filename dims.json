@@ -11,9 +11,41 @@
         558,
         560
     ],
+    "accipiter-nisus": [
+        473,
+        968
+    ],
     "accipiter-striatus": [
         375,
         560
+    ],
+    "acrocephalus-arundinaceus": [
+        506,
+        705
+    ],
+    "acrocephalus-dumetorum": [
+        708,
+        467
+    ],
+    "acrocephalus-melanopogon": [
+        861,
+        499
+    ],
+    "acrocephalus-palustris": [
+        756,
+        502
+    ],
+    "acrocephalus-schoenobaenus": [
+        822,
+        709
+    ],
+    "acrocephalus-scirpaceus": [
+        725,
+        499
+    ],
+    "actitis-hypoleucos": [
+        943,
+        674
     ],
     "actitis-macularius": [
         560,
@@ -23,9 +55,21 @@
         525,
         560
     ],
+    "aegithalos-caudatus": [
+        686,
+        533
+    ],
     "aegolius-acadicus": [
         560,
         558
+    ],
+    "aegolius-funereus": [
+        561,
+        631
+    ],
+    "aegypius-monachus": [
+        702,
+        752
     ],
     "aeronautes-saxatalis": [
         560,
@@ -35,9 +79,33 @@
         276,
         560
     ],
+    "aix-galericulata": [
+        722,
+        747
+    ],
     "aix-sponsa": [
         560,
         378
+    ],
+    "alauda-arvensis": [
+        717,
+        540
+    ],
+    "alcedo-atthis": [
+        848,
+        707
+    ],
+    "alectoris-chukar": [
+        561,
+        732
+    ],
+    "alectoris-graeca": [
+        700,
+        607
+    ],
+    "alopochen-aegyptiaca": [
+        736,
+        581
     ],
     "ammodramus-savannarum": [
         560,
@@ -47,9 +115,21 @@
         560,
         559
     ],
+    "anas-acuta": [
+        994,
+        593
+    ],
     "anas-crecca": [
         560,
         288
+    ],
+    "anas-flavirostris": [
+        833,
+        579
+    ],
+    "anas-georgica": [
+        1017,
+        637
     ],
     "anas-platyrhynchos": [
         558,
@@ -59,9 +139,61 @@
         560,
         439
     ],
+    "anser-anser": [
+        795,
+        880
+    ],
+    "anser-brachyrhynchus": [
+        783,
+        711
+    ],
+    "anser-cygnoides": [
+        750,
+        903
+    ],
+    "anser-erythropus": [
+        782,
+        739
+    ],
+    "anser-indicus": [
+        749,
+        681
+    ],
+    "anser-serrirostris": [
+        751,
+        783
+    ],
+    "anthus-campestris": [
+        832,
+        570
+    ],
+    "anthus-cervinus": [
+        860,
+        665
+    ],
+    "anthus-hodgsoni": [
+        691,
+        459
+    ],
+    "anthus-pratensis": [
+        646,
+        456
+    ],
+    "anthus-richardi": [
+        752,
+        678
+    ],
     "anthus-rubescens": [
         375,
         560
+    ],
+    "anthus-spinoletta": [
+        764,
+        619
+    ],
+    "anthus-trivialis": [
+        812,
+        567
     ],
     "aphelocoma-californica": [
         560,
@@ -71,9 +203,17 @@
         468,
         560
     ],
+    "apus-apus": [
+        736,
+        388
+    ],
     "aquila-chrysaetos": [
         437,
         560
+    ],
+    "aquila-heliaca": [
+        721,
+        905
     ],
     "archilochus-alexandri": [
         560,
@@ -83,9 +223,25 @@
         560,
         465
     ],
+    "ardea-cinerea": [
+        727,
+        962
+    ],
     "ardea-herodias": [
         560,
         373
+    ],
+    "ardea-purpurea": [
+        680,
+        810
+    ],
+    "ardeola-ralloides": [
+        789,
+        819
+    ],
+    "arenaria-interpres": [
+        700,
+        547
     ],
     "artemisiospiza-belli": [
         560,
@@ -103,6 +259,10 @@
         560,
         373
     ],
+    "athene-noctua": [
+        540,
+        648
+    ],
     "aythya-affinis": [
         560,
         372
@@ -114,6 +274,22 @@
     "aythya-collaris": [
         560,
         373
+    ],
+    "aythya-ferina": [
+        808,
+        552
+    ],
+    "aythya-fuligula": [
+        880,
+        665
+    ],
+    "aythya-marila": [
+        856,
+        519
+    ],
+    "aythya-nyroca": [
+        789,
+        610
     ],
     "aythya-valisineria": [
         560,
@@ -131,9 +307,29 @@
         560,
         559
     ],
+    "botaurus-stellaris": [
+        506,
+        1074
+    ],
+    "branta-bernicla": [
+        759,
+        634
+    ],
     "branta-canadensis": [
         560,
         559
+    ],
+    "branta-hutchinsii": [
+        696,
+        685
+    ],
+    "branta-leucopsis": [
+        718,
+        782
+    ],
+    "bubo-bubo": [
+        742,
+        862
     ],
     "bubo-virginianus": [
         373,
@@ -150,6 +346,14 @@
     "bucephala-clangula": [
         560,
         242
+    ],
+    "burhinus-oedicnemus": [
+        649,
+        641
+    ],
+    "buteo-buteo": [
+        633,
+        827
     ],
     "buteo-jamaicensis": [
         560,
@@ -175,9 +379,21 @@
         555,
         560
     ],
+    "cairina-moschata": [
+        799,
+        678
+    ],
     "calamospiza-melanocorys": [
         560,
         374
+    ],
+    "calandrella-brachydactyla": [
+        809,
+        501
+    ],
+    "calcarius-lapponicus": [
+        750,
+        466
     ],
     "calidris-alba": [
         560,
@@ -186,6 +402,42 @@
     "calidris-alpina": [
         560,
         374
+    ],
+    "calidris-canutus": [
+        747,
+        562
+    ],
+    "calidris-falcinellus": [
+        877,
+        618
+    ],
+    "calidris-ferruginea": [
+        890,
+        597
+    ],
+    "calidris-fuscicollis": [
+        745,
+        719
+    ],
+    "calidris-melanotos": [
+        796,
+        547
+    ],
+    "calidris-minuta": [
+        662,
+        607
+    ],
+    "calidris-pugnax": [
+        568,
+        744
+    ],
+    "calidris-subruficollis": [
+        779,
+        641
+    ],
+    "calidris-temminckii": [
+        835,
+        627
     ],
     "callipepla-californica": [
         560,
@@ -211,6 +463,18 @@
         527,
         560
     ],
+    "carduelis-carduelis": [
+        662,
+        535
+    ],
+    "carduelis-citrinella": [
+        989,
+        579
+    ],
+    "carpodacus-erythrinus": [
+        784,
+        624
+    ],
     "cathartes-aura": [
         376,
         560
@@ -231,13 +495,49 @@
         201,
         560
     ],
+    "certhia-brachydactyla": [
+        816,
+        665
+    ],
+    "certhia-familiaris": [
+        436,
+        878
+    ],
+    "cettia-cetti": [
+        789,
+        635
+    ],
     "chaetura-vauxi": [
         560,
         374
     ],
+    "charadrius-hiaticula": [
+        790,
+        676
+    ],
     "charadrius-vociferus": [
         560,
         408
+    ],
+    "chenonetta-jubata": [
+        681,
+        849
+    ],
+    "chlidonias-hybrida": [
+        899,
+        521
+    ],
+    "chlidonias-leucopterus": [
+        795,
+        394
+    ],
+    "chlidonias-niger": [
+        925,
+        447
+    ],
+    "chloris-chloris": [
+        952,
+        776
     ],
     "chondestes-grammacus": [
         560,
@@ -247,17 +547,81 @@
         560,
         319
     ],
+    "chroicocephalus-genei": [
+        877,
+        651
+    ],
+    "chroicocephalus-ridibundus": [
+        786,
+        599
+    ],
+    "ciconia-ciconia": [
+        689,
+        845
+    ],
+    "ciconia-nigra": [
+        637,
+        924
+    ],
+    "cinclus-cinclus": [
+        797,
+        607
+    ],
     "cinclus-mexicanus": [
         560,
         465
+    ],
+    "circaetus-gallicus": [
+        545,
+        813
+    ],
+    "circus-aeruginosus": [
+        553,
+        816
+    ],
+    "circus-cyaneus": [
+        634,
+        474
     ],
     "circus-hudsonius": [
         372,
         560
     ],
+    "circus-macrourus": [
+        698,
+        553
+    ],
+    "circus-pygargus": [
+        723,
+        701
+    ],
+    "cisticola-juncidis": [
+        931,
+        629
+    ],
     "cistothorus-palustris": [
         437,
         560
+    ],
+    "clamator-glandarius": [
+        828,
+        970
+    ],
+    "clanga-clanga": [
+        548,
+        736
+    ],
+    "clanga-pomarina": [
+        695,
+        718
+    ],
+    "clangula-hyemalis": [
+        821,
+        564
+    ],
+    "coccothraustes-coccothraustes": [
+        745,
+        471
     ],
     "coccothraustes-vespertinus": [
         560,
@@ -271,6 +635,14 @@
         560,
         327
     ],
+    "columba-oenas": [
+        560,
+        502
+    ],
+    "columba-palumbus": [
+        869,
+        749
+    ],
     "columbina-passerina": [
         560,
         559
@@ -278,6 +650,10 @@
     "contopus-sordidulus": [
         560,
         502
+    ],
+    "coracias-garrulus": [
+        874,
+        660
     ],
     "coragyps-atratus": [
         560,
@@ -291,17 +667,109 @@
         343,
         560
     ],
+    "corvus-cornix": [
+        818,
+        667
+    ],
+    "corvus-corone": [
+        763,
+        722
+    ],
+    "corvus-frugilegus": [
+        777,
+        678
+    ],
+    "corvus-monedula": [
+        747,
+        639
+    ],
+    "coturnix-coturnix": [
+        682,
+        874
+    ],
+    "crex-crex": [
+        798,
+        718
+    ],
+    "cuculus-canorus": [
+        785,
+        467
+    ],
+    "curruca-communis": [
+        726,
+        576
+    ],
+    "curruca-conspicillata": [
+        721,
+        633
+    ],
+    "curruca-curruca": [
+        750,
+        597
+    ],
+    "curruca-melanocephala": [
+        700,
+        528
+    ],
+    "cyanistes-caeruleus": [
+        727,
+        504
+    ],
     "cyanocitta-stelleri": [
         363,
         560
+    ],
+    "cygnus-atratus": [
+        760,
+        800
     ],
     "cygnus-buccinator": [
         560,
         370
     ],
+    "cygnus-columbianus": [
+        789,
+        686
+    ],
+    "cygnus-cygnus": [
+        723,
+        843
+    ],
+    "cygnus-melancoryphus": [
+        622,
+        553
+    ],
+    "cygnus-olor": [
+        665,
+        665
+    ],
     "cypseloides-niger": [
         560,
         356
+    ],
+    "delichon-urbicum": [
+        727,
+        393
+    ],
+    "dendrocopos-major": [
+        621,
+        653
+    ],
+    "dendrocoptes-medius": [
+        548,
+        781
+    ],
+    "dendrocygna-bicolor": [
+        965,
+        721
+    ],
+    "dendrocygna-viduata": [
+        703,
+        766
+    ],
+    "dryobates-minor": [
+        529,
+        745
     ],
     "dryobates-nuttallii": [
         560,
@@ -315,6 +783,10 @@
         268,
         560
     ],
+    "dryocopus-martius": [
+        516,
+        939
+    ],
     "dryocopus-pileatus": [
         492,
         560
@@ -323,13 +795,57 @@
         560,
         321
     ],
+    "egretta-garzetta": [
+        763,
+        932
+    ],
     "egretta-thula": [
         560,
         374
     ],
+    "elanus-caeruleus": [
+        629,
+        759
+    ],
     "elanus-leucurus": [
         560,
         378
+    ],
+    "emberiza-calandra": [
+        778,
+        535
+    ],
+    "emberiza-cia": [
+        758,
+        716
+    ],
+    "emberiza-cirlus": [
+        930,
+        660
+    ],
+    "emberiza-citrinella": [
+        801,
+        510
+    ],
+    "emberiza-hortulana": [
+        775,
+        508
+    ],
+    "emberiza-melanocephala": [
+        874,
+        645
+    ],
+    "emberiza-pusilla": [
+        675,
+        409
+    ],
+    "emberiza-rustica": [
+        746,
+        493
+    ],
+    "emberiza-schoeniclus": [
+        826,
+        528
     ],
     "empidonax-difficilis": [
         268,
@@ -355,6 +871,10 @@
         560,
         529
     ],
+    "erithacus-rubecula": [
+        728,
+        582
+    ],
     "euphagus-cyanocephalus": [
         560,
         371
@@ -375,9 +895,73 @@
         560,
         370
     ],
+    "falco-subbuteo": [
+        521,
+        627
+    ],
+    "falco-tinnunculus": [
+        479,
+        945
+    ],
+    "falco-vespertinus": [
+        529,
+        565
+    ],
+    "ficedula-albicollis": [
+        821,
+        583
+    ],
+    "ficedula-hypoleuca": [
+        581,
+        443
+    ],
+    "fratercula-arctica": [
+        670,
+        723
+    ],
+    "fringilla-coelebs": [
+        758,
+        550
+    ],
+    "fringilla-montifringilla": [
+        822,
+        588
+    ],
+    "fulica-atra": [
+        789,
+        744
+    ],
+    "gallinago-gallinago": [
+        901,
+        650
+    ],
+    "gallinago-media": [
+        930,
+        756
+    ],
+    "gallinula-chloropus": [
+        759,
+        606
+    ],
+    "garrulus-glandarius": [
+        844,
+        633
+    ],
+    "gavia-arctica": [
+        885,
+        752
+    ],
     "gavia-immer": [
         560,
         374
+    ],
+    "gavia-stellata": [
+        684,
+        730
+    ],
+    "gelochelidon-nilotica": [
+        904,
+        554
     ],
     "geothlypis-tolmiei": [
         560,
@@ -387,13 +971,33 @@
         560,
         316
     ],
+    "geronticus-eremita": [
+        1044,
+        774
+    ],
     "glaucidium-gnoma": [
         560,
         560
     ],
+    "glaucidium-passerinum": [
+        711,
+        778
+    ],
+    "grus-grus": [
+        690,
+        960
+    ],
     "gymnogyps-californianus": [
         466,
         560
+    ],
+    "gyps-fulvus": [
+        607,
+        718
+    ],
+    "haematopus-ostralegus": [
+        914,
+        614
     ],
     "haemorhous-mexicanus": [
         523,
@@ -403,21 +1007,49 @@
         560,
         387
     ],
+    "haliaeetus-albicilla": [
+        565,
+        750
+    ],
     "haliaeetus-leucocephalus": [
         560,
         434
+    ],
+    "hieraaetus-pennatus": [
+        603,
+        762
+    ],
+    "himantopus-himantopus": [
+        735,
+        790
     ],
     "himantopus-mexicanus": [
         458,
         560
     ],
+    "hippolais-icterina": [
+        865,
+        610
+    ],
+    "hippolais-polyglotta": [
+        790,
+        609
+    ],
     "hirundo-rustica": [
         560,
         410
     ],
+    "hydrocoloeus-minutus": [
+        781,
+        566
+    ],
     "hydroprogne-caspia": [
         560,
         373
+    ],
+    "ichthyaetus-melanocephalus": [
+        771,
+        413
     ],
     "icteria-virens": [
         560,
@@ -439,6 +1071,10 @@
         560,
         266
     ],
+    "iduna-caligata": [
+        823,
+        556
+    ],
     "ixoreus-naevius": [
         560,
         558
@@ -447,25 +1083,77 @@
         560,
         320
     ],
+    "jynx-torquilla": [
+        604,
+        758
+    ],
+    "lagopus-muta": [
+        689,
+        715
+    ],
+    "lanius-collurio": [
+        569,
+        664
+    ],
+    "lanius-excubitor": [
+        827,
+        672
+    ],
     "lanius-ludovicianus": [
         408,
         560
+    ],
+    "lanius-minor": [
+        516,
+        736
+    ],
+    "lanius-senator": [
+        886,
+        633
+    ],
+    "larus-argentatus": [
+        734,
+        546
+    ],
+    "larus-cachinnans": [
+        632,
+        489
     ],
     "larus-californicus": [
         560,
         437
     ],
+    "larus-canus": [
+        835,
+        648
+    ],
     "larus-delawarensis": [
         560,
         376
+    ],
+    "larus-fuscus": [
+        951,
+        781
     ],
     "larus-glaucescens": [
         560,
         374
     ],
+    "larus-glaucoides": [
+        877,
+        693
+    ],
     "larus-heermanni": [
         560,
         436
+    ],
+    "larus-marinus": [
+        930,
+        799
+    ],
+    "larus-michahellis": [
+        705,
+        591
     ],
     "larus-occidentalis": [
         560,
@@ -495,17 +1183,65 @@
         560,
         556
     ],
+    "limosa-lapponica": [
+        778,
+        692
+    ],
+    "limosa-limosa": [
+        905,
+        813
+    ],
+    "linaria-cannabina": [
+        751,
+        674
+    ],
+    "locustella-luscinioides": [
+        695,
+        527
+    ],
+    "locustella-naevia": [
+        766,
+        629
+    ],
     "lophodytes-cucullatus": [
         560,
         409
+    ],
+    "lophophanes-cristatus": [
+        765,
+        766
     ],
     "loxia-curvirostra": [
         560,
         319
     ],
+    "lullula-arborea": [
+        761,
+        589
+    ],
+    "luscinia-megarhynchos": [
+        750,
+        530
+    ],
+    "luscinia-svecica": [
+        639,
+        503
+    ],
+    "lymnocryptes-minimus": [
+        825,
+        555
+    ],
+    "lyrurus-tetrix": [
+        630,
+        625
+    ],
     "mareca-americana": [
         560,
         375
+    ],
+    "mareca-penelope": [
+        891,
+        448
     ],
     "mareca-strepera": [
         560,
@@ -527,9 +1263,25 @@
         372,
         560
     ],
+    "melanitta-fusca": [
+        807,
+        552
+    ],
+    "melanitta-nigra": [
+        916,
+        591
+    ],
+    "melanocorypha-calandra": [
+        931,
+        661
+    ],
     "meleagris-gallopavo": [
         560,
         373
+    ],
+    "melopsittacus-undulatus": [
+        654,
+        728
     ],
     "melospiza-georgiana": [
         320,
@@ -555,9 +1307,29 @@
         560,
         495
     ],
+    "mergellus-albellus": [
+        680,
+        377
+    ],
     "mergus-merganser": [
         560,
         374
+    ],
+    "mergus-serrator": [
+        955,
+        521
+    ],
+    "merops-apiaster": [
+        673,
+        635
+    ],
+    "milvus-migrans": [
+        442,
+        1082
+    ],
+    "milvus-milvus": [
+        634,
+        833
     ],
     "mimus-polyglottos": [
         560,
@@ -571,6 +1343,30 @@
         560,
         505
     ],
+    "monticola-saxatilis": [
+        769,
+        669
+    ],
+    "montifringilla-nivalis": [
+        718,
+        613
+    ],
+    "motacilla-alba": [
+        819,
+        452
+    ],
+    "motacilla-cinerea": [
+        949,
+        502
+    ],
+    "motacilla-flava": [
+        840,
+        503
+    ],
+    "muscicapa-striata": [
+        875,
+        565
+    ],
     "myadestes-townsendi": [
         560,
         436
@@ -578,6 +1374,14 @@
     "myiarchus-cinerascens": [
         560,
         532
+    ],
+    "netta-rufina": [
+        981,
+        622
+    ],
+    "nucifraga-caryocatactes": [
+        878,
+        608
     ],
     "nucifraga-columbiana": [
         560,
@@ -587,21 +1391,57 @@
         558,
         560
     ],
+    "numenius-arquata": [
+        821,
+        792
+    ],
+    "numenius-phaeopus": [
+        789,
+        743
+    ],
     "nycticorax-nycticorax": [
         560,
         465
+    ],
+    "oenanthe-oenanthe": [
+        773,
+        557
     ],
     "oreothlypis-ruficapilla": [
         372,
         560
     ],
+    "oriolus-oriolus": [
+        874,
+        705
+    ],
+    "otus-scops": [
+        543,
+        804
+    ],
+    "oxyura-jamaicensis": [
+        775,
+        482
+    ],
     "pandion-haliaetus": [
         560,
         371
     ],
+    "panurus-biarmicus": [
+        750,
+        708
+    ],
+    "parus-major": [
+        862,
+        610
+    ],
     "passer-domesticus": [
         560,
         444
+    ],
+    "passer-montanus": [
+        904,
+        643
     ],
     "passerculus-sandwichensis": [
         560,
@@ -619,9 +1459,17 @@
         560,
         560
     ],
+    "pastor-roseus": [
+        465,
+        588
+    ],
     "patagioenas-fasciata": [
         560,
         500
+    ],
+    "pavo-cristatus": [
+        660,
+        1029
     ],
     "pelecanus-erythrorhynchos": [
         560,
@@ -631,9 +1479,21 @@
         560,
         406
     ],
+    "perdix-perdix": [
+        557,
+        968
+    ],
+    "periparus-ater": [
+        828,
+        650
+    ],
     "perisoreus-canadensis": [
         560,
         349
+    ],
+    "pernis-apivorus": [
+        488,
+        778
     ],
     "petrochelidon-pyrrhonota": [
         558,
@@ -647,9 +1507,17 @@
         490,
         560
     ],
+    "phalacrocorax-carbo": [
+        758,
+        736
+    ],
     "phalaenoptilus-nuttallii": [
         560,
         373
+    ],
+    "phalaropus-fulicarius": [
+        756,
+        633
     ],
     "phasianus-colchicus": [
         560,
@@ -659,13 +1527,61 @@
         559,
         560
     ],
+    "phoenicopterus-roseus": [
+        640,
+        984
+    ],
+    "phoenicurus-ochruros": [
+        654,
+        561
+    ],
+    "phoenicurus-phoenicurus": [
+        727,
+        765
+    ],
+    "phylloscopus-bonelli": [
+        734,
+        570
+    ],
+    "phylloscopus-collybita": [
+        526,
+        411
+    ],
+    "phylloscopus-inornatus": [
+        722,
+        438
+    ],
+    "phylloscopus-sibilatrix": [
+        758,
+        555
+    ],
+    "phylloscopus-trochilus": [
+        648,
+        465
+    ],
     "pica-nuttalli": [
         560,
         320
     ],
+    "pica-pica": [
+        957,
+        539
+    ],
     "picoides-arcticus": [
         374,
         560
+    ],
+    "picoides-tridactylus": [
+        429,
+        723
+    ],
+    "picus-canus": [
+        502,
+        845
+    ],
+    "picus-viridis": [
+        608,
+        770
     ],
     "pinicola-enucleator": [
         560,
@@ -691,9 +1607,41 @@
         560,
         495
     ],
+    "platalea-leucorodia": [
+        772,
+        920
+    ],
+    "plectrophenax-nivalis": [
+        687,
+        637
+    ],
     "plegadis-chihi": [
         560,
         372
+    ],
+    "plegadis-falcinellus": [
+        704,
+        752
+    ],
+    "pluvialis-apricaria": [
+        747,
+        675
+    ],
+    "pluvialis-squatarola": [
+        694,
+        610
+    ],
+    "podiceps-auritus": [
+        816,
+        569
+    ],
+    "podiceps-cristatus": [
+        854,
+        648
+    ],
+    "podiceps-grisegena": [
+        812,
+        711
     ],
     "podiceps-nigricollis": [
         560,
@@ -703,9 +1651,21 @@
         560,
         374
     ],
+    "poecile-atricapillus": [
+        778,
+        735
+    ],
     "poecile-gambeli": [
         560,
         350
+    ],
+    "poecile-montanus": [
+        1044,
+        616
+    ],
+    "poecile-palustris": [
+        776,
+        466
     ],
     "poecile-rufescens": [
         560,
@@ -715,33 +1675,97 @@
         560,
         557
     ],
+    "polytelis-anthopeplus": [
+        694,
+        885
+    ],
     "pooecetes-gramineus": [
         560,
         436
+    ],
+    "porzana-porzana": [
+        744,
+        599
     ],
     "progne-subis": [
         313,
         560
     ],
+    "prunella-collaris": [
+        865,
+        556
+    ],
+    "prunella-modularis": [
+        873,
+        606
+    ],
     "psaltriparus-minimus": [
         560,
         428
+    ],
+    "psittacula-eupatria": [
+        531,
+        940
+    ],
+    "psittacula-krameri": [
+        555,
+        916
+    ],
+    "ptyonoprogne-rupestris": [
+        677,
+        477
+    ],
+    "puffinus-puffinus": [
+        807,
+        636
+    ],
+    "pyrrhocorax-graculus": [
+        686,
+        764
+    ],
+    "pyrrhocorax-pyrrhocorax": [
+        931,
+        728
+    ],
+    "pyrrhula-pyrrhula": [
+        749,
+        506
     ],
     "quiscalus-mexicanus": [
         560,
         269
     ],
+    "rallus-aquaticus": [
+        768,
+        692
+    ],
     "recurvirostra-americana": [
         268,
         560
+    ],
+    "recurvirostra-avosetta": [
+        684,
+        749
     ],
     "regulus-calendula": [
         496,
         560
     ],
+    "regulus-ignicapilla": [
+        592,
+        571
+    ],
+    "regulus-regulus": [
+        764,
+        443
+    ],
     "regulus-satrapa": [
         464,
         560
+    ],
+    "remiz-pendulinus": [
+        664,
+        430
     ],
     "riparia-riparia": [
         560,
@@ -755,6 +1779,14 @@
         560,
         465
     ],
+    "saxicola-rubetra": [
+        720,
+        532
+    ],
+    "saxicola-rubicola": [
+        644,
+        506
+    ],
     "sayornis-nigricans": [
         308,
         560
@@ -762,6 +1794,10 @@
     "sayornis-saya": [
         463,
         560
+    ],
+    "scolopax-rusticola": [
+        951,
+        704
     ],
     "selasphorus-platycercus": [
         560,
@@ -774,6 +1810,10 @@
     "selasphorus-sasin": [
         434,
         560
+    ],
+    "serinus-serinus": [
+        744,
+        570
     ],
     "setophaga-coronata": [
         461,
@@ -823,9 +1863,17 @@
         436,
         560
     ],
+    "sitta-europaea": [
+        814,
+        572
+    ],
     "sitta-pygmaea": [
         560,
         407
+    ],
+    "somateria-mollissima": [
+        755,
+        757
     ],
     "spatula-clypeata": [
         560,
@@ -834,6 +1882,10 @@
     "spatula-discors": [
         560,
         493
+    ],
+    "spatula-querquedula": [
+        794,
+        645
     ],
     "sphyrapicus-ruber": [
         560,
@@ -847,6 +1899,10 @@
         560,
         373
     ],
+    "spinus-magellanicus": [
+        751,
+        608
+    ],
     "spinus-pinus": [
         560,
         516
@@ -854,6 +1910,10 @@
     "spinus-psaltria": [
         560,
         548
+    ],
+    "spinus-spinus": [
+        853,
+        605
     ],
     "spinus-tristis": [
         536,
@@ -879,6 +1939,14 @@
         558,
         560
     ],
+    "stercorarius-longicaudus": [
+        804,
+        419
+    ],
+    "stercorarius-skua": [
+        802,
+        522
+    ],
     "sterna-forsteri": [
         560,
         373
@@ -887,9 +1955,25 @@
         560,
         411
     ],
+    "sterna-paradisaea": [
+        888,
+        555
+    ],
+    "sternula-albifrons": [
+        742,
+        411
+    ],
     "streptopelia-decaocto": [
         560,
         393
+    ],
+    "streptopelia-turtur": [
+        731,
+        575
+    ],
+    "strix-aluco": [
+        624,
+        890
     ],
     "strix-occidentalis": [
         560,
@@ -903,6 +1987,18 @@
         560,
         545
     ],
+    "sylvia-atricapilla": [
+        810,
+        543
+    ],
+    "sylvia-borin": [
+        969,
+        575
+    ],
+    "tachybaptus-ruficollis": [
+        676,
+        638
+    ],
     "tachycineta-bicolor": [
         375,
         560
@@ -911,21 +2007,77 @@
         560,
         435
     ],
+    "tadorna-cana": [
+        689,
+        624
+    ],
+    "tadorna-ferruginea": [
+        732,
+        676
+    ],
+    "tadorna-tadorna": [
+        588,
+        655
+    ],
+    "tetrao-urogallus": [
+        735,
+        738
+    ],
+    "tetrastes-bonasia": [
+        854,
+        736
+    ],
     "thalasseus-elegans": [
         560,
         407
+    ],
+    "thalasseus-sandvicensis": [
+        1040,
+        603
     ],
     "thryomanes-bewickii": [
         560,
         263
     ],
+    "tichodroma-muraria": [
+        819,
+        690
+    ],
     "toxostoma-redivivum": [
         560,
         298
     ],
+    "trichoglossus-haematodus": [
+        882,
+        700
+    ],
+    "tringa-erythropus": [
+        772,
+        799
+    ],
+    "tringa-glareola": [
+        691,
+        683
+    ],
+    "tringa-nebularia": [
+        863,
+        688
+    ],
+    "tringa-ochropus": [
+        815,
+        615
+    ],
     "tringa-semipalmata": [
         560,
         464
+    ],
+    "tringa-stagnatilis": [
+        848,
+        826
+    ],
+    "tringa-totanus": [
+        897,
+        715
     ],
     "troglodytes-aedon": [
         560,
@@ -935,9 +2087,37 @@
         560,
         407
     ],
+    "troglodytes-troglodytes": [
+        566,
+        466
+    ],
+    "turdus-iliacus": [
+        819,
+        702
+    ],
+    "turdus-merula": [
+        1011,
+        751
+    ],
     "turdus-migratorius": [
         560,
         402
+    ],
+    "turdus-philomelos": [
+        922,
+        776
+    ],
+    "turdus-pilaris": [
+        728,
+        818
+    ],
+    "turdus-torquatus": [
+        862,
+        647
+    ],
+    "turdus-viscivorus": [
+        560,
+        588
     ],
     "tyrannus-verticalis": [
         559,
@@ -951,9 +2131,17 @@
         560,
         464
     ],
+    "upupa-epops": [
+        1052,
+        568
+    ],
     "urile-penicillatus": [
         296,
         560
+    ],
+    "vanellus-vanellus": [
+        727,
+        628
     ],
     "vireo-bellii": [
         560,
@@ -974,6 +2162,14 @@
     "xanthocephalus-xanthocephalus": [
         293,
         560
+    ],
+    "xenus-cinereus": [
+        883,
+        757
+    ],
+    "zapornia-parva": [
+        799,
+        610
     ],
     "zenaida-asiatica": [
         560,

@@ -1,1 +1,50 @@
-birdnet-collage-server
+# Go binary
+birbnet-collage-server
+
+# Configuration (may contain API keys and passwords)
+config.yaml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+
+# Generated/cached assets
+# Reference photos are auto-fetched from Wikipedia and cached locally
+assets/references/
+
+# Logs
+*.log
+
+# Unix sockets
+*.sock
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*.swn
+*~
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
