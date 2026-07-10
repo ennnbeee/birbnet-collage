@@ -102,4 +102,5 @@ Curruca communis|Common Whitethroat
 Coturnix coturnix|Common Quail
 Chroicocephalus ridibundus|Black-headed Gull
 Certhia brachydactyla|Short-toed Treecreeper
+Caprimulgus europaeus|Eurasian Nightjar
 Alauda arvensis|Eurasian Skylark
