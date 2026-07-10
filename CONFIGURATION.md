@@ -127,30 +127,30 @@ Use the provided startup script:
 
    ```ini
    User=dietpi  # Change to your username (pi, dietpi, etc.)
-   WorkingDirectory=/home/dietpi/birdnet-collage  # Change to your clone path
+   WorkingDirectory=/home/dietpi/birbnet-collage  # Change to your clone path
    ExecStart=/home/dietpi/birdnet-collage/birbnet-collage-server -config /home/dietpi/birdnet-collage/config.yaml
    ```
 
 3. **Install and enable the service:**
 
    ```bash
-   sudo cp birdnet-collage.service /etc/systemd/system/
+   sudo cp birbnet-collage.service /etc/systemd/system/
    sudo systemctl daemon-reload
-   sudo systemctl enable birdnet-collage
-   sudo systemctl start birdnet-collage
+   sudo systemctl enable birbnet-collage
+   sudo systemctl start birbnet-collage
    ```
 
 4. **Check status:**
 
    ```bash
-   sudo systemctl status birdnet-collage
-   sudo journalctl -u birdnet-collage -f  # Follow logs in real-time
+   sudo systemctl status birbnet-collage
+   sudo journalctl -u birbnet-collage -f  # Follow logs in real-time
    ```
 
 5. **Service management commands:**
 
    ```bash
-   sudo systemctl stop birdnet-collage     # Stop the service
-   sudo systemctl restart birdnet-collage  # Restart the service
-   sudo systemctl disable birdnet-collage  # Disable auto-start
+   sudo systemctl stop birbnet-collage     # Stop the service
+   sudo systemctl restart birbnet-collage  # Restart the service
+   sudo systemctl disable birbnet-collage  # Disable auto-start
    ```
