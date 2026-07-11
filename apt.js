@@ -28,11 +28,21 @@
   function dateRangeForHours(hours) {
     if (hours >= 1000000) return { all: true, start_date: null, end_date: null };
     var now = new Date();
+    var tomorrow = new Date(now.getTime() + 24 * 3600000);
+    // Special case: 24h means "today through tomorrow"
+    if (hours === 24) {
+      return {
+        all: false,
+        start_date: fmtDate(now),
+        end_date: fmtDate(tomorrow),
+      };
+    }
+    // All other time ranges use tomorrow as end_date to include all of today
     var start = new Date(now.getTime() - hours * 3600000);
     return {
       all: false,
-    start_date: fmtDate(start),
-    end_date: fmtDate(now),
+      start_date: fmtDate(start),
+      end_date: fmtDate(tomorrow),
     };
   }
 
@@ -200,6 +210,7 @@
       currentHours = +b.dataset.h;
       writeLS('bird:window', String(currentHours));
       syncPill(winPick);
+      refreshRecent(true);
     });
   });
 
@@ -258,7 +269,7 @@
       if (callback) callback();
     });
   }
-  
+
 
   function tuning(n) {
     return {
@@ -699,10 +710,10 @@
     return n.toLocaleString();
   }
   function windowLabel(h) {
-    if (h <= 1) return 'this hour';
-    if (h <= 12) return 'past 12h';
     if (h <= 24) return 'today';
-    if (h <= 168) return 'this week';
+    if (h <= 48) return 'past 48h';
+    if (h <= 168) return 'past 7 days';
+    if (h <= 336) return 'past 14 days';
     return 'all time';
   }
 
@@ -2102,7 +2113,7 @@
 
   var _decodedCache = {};
 
-  
+
   function _fft(real, imag) {
     var n = real.length;
     var j = 0;
